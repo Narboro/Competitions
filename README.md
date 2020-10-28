@@ -1,5 +1,5 @@
 # Competitions
-Задания выполненные в соревнованиях по Machine Learning.
+Проекты, выполненные в соревнованиях по Machine Learning.
 
 <table>
 	<tr>
